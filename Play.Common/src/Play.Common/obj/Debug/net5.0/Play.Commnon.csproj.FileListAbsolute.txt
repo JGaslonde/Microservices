@@ -1,0 +1,12 @@
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\Play.Commnon.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\Play.Commnon.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\Play.Commnon.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\Play.Commnon.AssemblyInfo.cs
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\Play.Commnon.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\bin\Debug\net5.0\Play.Commnon.deps.json
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\bin\Debug\net5.0\Play.Commnon.dll
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\bin\Debug\net5.0\ref\Play.Commnon.dll
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\bin\Debug\net5.0\Play.Commnon.pdb
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\Play.Commnon.dll
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\ref\Play.Commnon.dll
+E:\OneDrive\Documents\source\repos\Microservices\Play.Common\src\Play.Commnon\obj\Debug\net5.0\Play.Commnon.pdb

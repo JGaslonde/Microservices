@@ -1,0 +1,12 @@
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.deps.json
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.dll
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\ref\Play.Catalog.Contracts.dll
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.pdb
+E:\OneDrive\Documents\source\repos\Microservices\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\refint\Play.Catalog.Contracts.dll

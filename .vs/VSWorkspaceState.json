@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Play.Catalog",
+    "\\Play.Catalog\\src",
+    "\\Play.Catalog\\src\\Play.Catalog.Service",
+    "\\Play.Identity",
+    "\\Play.Identity\\Play.Identity.Service",
+    "\\Play.Identity\\Play.Identity.Service\\Controllers"
+  ],
+  "SelectedNode": "\\Play.Identity\\Play.Identity.Service\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}
